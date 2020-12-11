@@ -6,6 +6,11 @@ import MenuLeft from "../menu_left";
 import Charts from "./Charts/Charts";
 import Footer from "../footer";
 
+
+
+
+
+
 function layout() {
   return (
     <>

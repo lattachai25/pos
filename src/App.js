@@ -48,7 +48,7 @@ function App() {
       <Route path="/Etransport" component={Etransport} />
       <Route path="/Executive" component={Executive} />
       {/* -------------------------------- Manager --------------------------------- */}
-      <Route path="/Manager" component={Manager} />
+      <Route path="/Layout/Manager" component={Manager} />
       <Route path="/po" component={po} />
       <Route path="/Product_report" component={Product_report} />
       <Route path="/Branch_report_all" component={Branch_report_all} />
